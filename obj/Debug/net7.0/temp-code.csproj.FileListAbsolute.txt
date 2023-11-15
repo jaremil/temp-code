@@ -1,0 +1,15 @@
+/Users/jaremil/temp-code/bin/Debug/net7.0/temp-code
+/Users/jaremil/temp-code/bin/Debug/net7.0/temp-code.deps.json
+/Users/jaremil/temp-code/bin/Debug/net7.0/temp-code.runtimeconfig.json
+/Users/jaremil/temp-code/bin/Debug/net7.0/temp-code.dll
+/Users/jaremil/temp-code/bin/Debug/net7.0/temp-code.pdb
+/Users/jaremil/temp-code/obj/Debug/net7.0/temp-code.csproj.AssemblyReference.cache
+/Users/jaremil/temp-code/obj/Debug/net7.0/temp-code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaremil/temp-code/obj/Debug/net7.0/temp-code.AssemblyInfoInputs.cache
+/Users/jaremil/temp-code/obj/Debug/net7.0/temp-code.AssemblyInfo.cs
+/Users/jaremil/temp-code/obj/Debug/net7.0/temp-code.csproj.CoreCompileInputs.cache
+/Users/jaremil/temp-code/obj/Debug/net7.0/temp-code.dll
+/Users/jaremil/temp-code/obj/Debug/net7.0/refint/temp-code.dll
+/Users/jaremil/temp-code/obj/Debug/net7.0/temp-code.pdb
+/Users/jaremil/temp-code/obj/Debug/net7.0/temp-code.genruntimeconfig.cache
+/Users/jaremil/temp-code/obj/Debug/net7.0/ref/temp-code.dll
